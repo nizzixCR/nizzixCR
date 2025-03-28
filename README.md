@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 📫 How to reach me **nizzix_cr on discord**
+- 📫 How to reach me **nizzix_crs on discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
