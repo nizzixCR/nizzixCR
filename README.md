@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nizzix cr</h1>
 <h3 align="center">A passionate of C++, Python and cracking</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nizzixcr)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nizzixCR)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [Nizzix import](https://github.com/nizzixCR/Temp-mail-py)
 
