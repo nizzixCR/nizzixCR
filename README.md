@@ -3,8 +3,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nizzixcr)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nizzixCR" alt="nizzixCR" /></a> </p>
-
 - 🔭 I’m currently working on [Nizzix import](https://github.com/nizzixCR/Temp-mail-py)
 
 - 👨‍💻 All of my projects are available at **https://nizzix.ovh/**
